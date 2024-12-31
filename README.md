@@ -22,13 +22,13 @@ A responsive portfolio website created over two years ago to showcase my early w
 ## 📂 Project Structure
 ```
 root
-├── public/                   # Static assets
+├── public/
 ├── src/
-│   ├── styles/               # SCSS styles
-│   └── index.html            # Main HTML structure
-├── .gitignore                # Git ignored files
-├── package.json              # Dependencies and scripts
-└── README.md                 # Project documentation
+│   ├── styles/
+│   └── index.html
+├── .gitignore
+├── package.json
+└── README.md
 ```
 
 ---
